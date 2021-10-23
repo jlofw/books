@@ -20,6 +20,8 @@
 
 - Signal and Power Integrity Simplified - Eric Bogatin - 00137025020
 
+- Bogatin’s Practical Guide to Transmission Line Design and Characterization for Signal Integrity Applications - Eric Bogatin - 9781630818517
+
 ## EMI / EMC
 
 - PCB Design for Real-World EMI Control - Bruce R. Archambeault - 1402071302
@@ -33,5 +35,13 @@
 - ~~Grounding & Shielding Techniques - Ralph Morrison - 9781119183747~~
 
 - EMI Troubleshooting Cookbook for Product Designers – Patrick G. André and Kenneth Wyatt - 9781613530191
+
+- Bogatin's Practical Guide to Prototype Breadboard and PCB Design - Eric Bogatin - 9781630818487
+
+- Create Your Own EMC Troubleshooting Kit (Volume 1): Essential Tools for EMC Troubleshooting - Kenneth Wyatt - 9798693411968
+
+- Workbench Troubleshooting EMC Emissions (Volume 2): Simple Techniques for Radiated and Conducted Emissions Troubleshooting and Pre-Compliance Testing - Kenneth Wyatt - 9798694049771
+
+- Workbench Troubleshooting EMC Immunity (Volume 3): Simple Techniques for ESD, EFT and Radiated Immunity Testing, Troubleshooting and Pre-Compliance Testing - Kenneth Wyatt - 9798694103145
 
 ## other
