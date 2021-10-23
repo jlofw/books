@@ -1,5 +1,9 @@
 # books
 
+## EE
+
+- The Art of Electronics - Paul Horowitz - 9780521809269
+
 ## signal integrity
 
 Fast Circuit Boards - Energy Management – Ralph Morrison (Wiley & Sons) – ISBN 978-1-119-41399-8
