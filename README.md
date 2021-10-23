@@ -2,7 +2,7 @@
 
 ## EE
 
-~~ - The Art of Electronics - Paul Horowitz & Winfield Hill - 9780521809269~~
+- ~~The Art of Electronics - Paul Horowitz & Winfield Hill - 9780521809269~~
 
 - The Art of Electronics: The x Chapters - Paul Horowitz & Winfield Hill - 9781108499941
 
