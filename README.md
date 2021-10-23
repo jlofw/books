@@ -47,3 +47,11 @@
 ## other
 
 - ~~Skunk Works: a Personal Memoir of My Years at Lockheed - Rich Ben R. - 9780316743006~~
+
+- The Idea Factory - Jon Gertner - 9780143122791
+
+- The Heart of Enterprise - Stafford Beer - 9780471948377
+
+- The Peter Principle - Raymond Hull - 9781788166058
+
+- The Making of the Atomic Bomb - Richard Rhodes - 9781451677614
