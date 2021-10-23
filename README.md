@@ -2,7 +2,7 @@
 
 ## EE
 
-- The Art of Electronics - Paul Horowitz & Winfield Hill - 9780521809269
+~~- The Art of Electronics - Paul Horowitz & Winfield Hill - 9780521809269
 
 - The Art of Electronics: The x Chapters - Paul Horowitz & Winfield Hill - 9781108499941
 
@@ -22,16 +22,16 @@
 
 ## EMI / EMC
 
-PCB Design for Real-World EMI Control - Bruce R. Archambeault - 1402071302
+- PCB Design for Real-World EMI Control - Bruce R. Archambeault - 1402071302
 
-Principals of Power Integrity for PDN Design Simplified - Larry D. Smith & Eric Bogatin - 9780132735551
+- Principals of Power Integrity for PDN Design Simplified - Larry D. Smith & Eric Bogatin - 9780132735551
 
-Digital Design for Interference Specifications- A Practical Handbook for EMI Suppression - David L. Terrell & R. Kenneth Keenan - 075067282X
+- Digital Design for Interference Specifications- A Practical Handbook for EMI Suppression - David L. Terrell & R. Kenneth Keenan - 075067282X
 
-Electromagnetic Compatibility Engineering - Henry Ott - 9780470189306
+- Electromagnetic Compatibility Engineering - Henry Ott - 9780470189306
 
-Grounding & Shielding Techniques - Ralph Morrison - 9781119183747
+- Grounding & Shielding Techniques - Ralph Morrison - 9781119183747
 
-EMI Troubleshooting Cookbook for Product Designers – Patrick G. André and Kenneth Wyatt - 9781613530191
+- EMI Troubleshooting Cookbook for Product Designers – Patrick G. André and Kenneth Wyatt - 9781613530191
 
 ## other
