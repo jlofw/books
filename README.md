@@ -45,3 +45,5 @@
 - Workbench Troubleshooting EMC Immunity (Volume 3): Simple Techniques for ESD, EFT and Radiated Immunity Testing, Troubleshooting and Pre-Compliance Testing - Kenneth Wyatt - 9798694103145
 
 ## other
+
+- ~~Skunk Works: a Personal Memoir of My Years at Lockheed - Rich Ben R. - 9780316743006~~
