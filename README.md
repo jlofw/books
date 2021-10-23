@@ -1,4 +1,4 @@
-# books
+# books to get
 
 ## EE
 
@@ -8,7 +8,7 @@
 
 ## signal integrity
 
-- Fast Circuit Boards - Energy Management – Ralph Morrison – 9781119413998
+- ~~Fast Circuit Boards - Energy Management – Ralph Morrison – 9781119413998~~
 
 - Right the First Time - A Practical Handbook on High Speed PCB and System Design - Volumes I & II - Lee W. Ritchey - 9780974193601
 
@@ -30,7 +30,7 @@
 
 - Electromagnetic Compatibility Engineering - Henry Ott - 9780470189306
 
-- Grounding & Shielding Techniques - Ralph Morrison - 9781119183747
+- ~~Grounding & Shielding Techniques - Ralph Morrison - 9781119183747~~
 
 - EMI Troubleshooting Cookbook for Product Designers – Patrick G. André and Kenneth Wyatt - 9781613530191
 
