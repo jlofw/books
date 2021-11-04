@@ -6,9 +6,17 @@
 
 - The Art of Electronics: The x Chapters - Paul Horowitz & Winfield Hill - 9781108499941
 
+- Design of Analog CMOS Integrated Circuits - Behzad Razavi - 9780072524932
+
+- ISE Engineering Circuit Analysis - William Hayt - 9781260084887
+
+- Operation and Modeling of the MOS Transistor, Third Edtion International Edition - Yannis Tsividis - 9780199829835
+
 ## signal integrity
 
 - ~~Fast Circuit Boards - Energy Management – Ralph Morrison – 9781119413998~~
+
+- Bogatin’s Practical Guide to Transmission Line Design and Characterization for Signal Integrity Applications - Eric Bogatin - 9781630818517
 
 - Right the First Time - A Practical Handbook on High Speed PCB and System Design - Volumes I & II - Lee W. Ritchey - 9780974193601
 
@@ -20,9 +28,15 @@
 
 - Signal and Power Integrity Simplified - Eric Bogatin - 00137025020
 
-- Bogatin’s Practical Guide to Transmission Line Design and Characterization for Signal Integrity Applications - Eric Bogatin - 9781630818517
-
 ## EMI / EMC
+
+- Create Your Own EMC Troubleshooting Kit (Volume 1): Essential Tools for EMC Troubleshooting - Kenneth Wyatt - 9798693411968
+
+- Workbench Troubleshooting EMC Emissions (Volume 2): Simple Techniques for Radiated and Conducted Emissions Troubleshooting and Pre-Compliance Testing - Kenneth Wyatt - 9798694049771
+
+- Workbench Troubleshooting EMC Immunity (Volume 3): Simple Techniques for ESD, EFT and Radiated Immunity Testing, Troubleshooting and Pre-Compliance Testing - Kenneth Wyatt - 9798694103145
+
+- Bogatin's Practical Guide to Prototype Breadboard and PCB Design - Eric Bogatin - 9781630818487
 
 - PCB Design for Real-World EMI Control - Bruce R. Archambeault - 1402071302
 
@@ -36,22 +50,14 @@
 
 - EMI Troubleshooting Cookbook for Product Designers – Patrick G. André and Kenneth Wyatt - 9781613530191
 
-- Bogatin's Practical Guide to Prototype Breadboard and PCB Design - Eric Bogatin - 9781630818487
-
-- Create Your Own EMC Troubleshooting Kit (Volume 1): Essential Tools for EMC Troubleshooting - Kenneth Wyatt - 9798693411968
-
-- Workbench Troubleshooting EMC Emissions (Volume 2): Simple Techniques for Radiated and Conducted Emissions Troubleshooting and Pre-Compliance Testing - Kenneth Wyatt - 9798694049771
-
-- Workbench Troubleshooting EMC Immunity (Volume 3): Simple Techniques for ESD, EFT and Radiated Immunity Testing, Troubleshooting and Pre-Compliance Testing - Kenneth Wyatt - 9798694103145
-
 ## other
 
 - ~~Skunk Works: a Personal Memoir of My Years at Lockheed - Rich Ben R. - 9780316743006~~
+
+- The Making of the Atomic Bomb - Richard Rhodes - 9781451677614
 
 - The Idea Factory - Jon Gertner - 9780143122791
 
 - The Heart of Enterprise - Stafford Beer - 9780471948377
 
 - The Peter Principle - Raymond Hull - 9781788166058
-
-- The Making of the Atomic Bomb - Richard Rhodes - 9781451677614
