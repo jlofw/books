@@ -30,6 +30,8 @@
 
 ## EMI / EMC
 
+- ~~Grounding & Shielding Techniques - Ralph Morrison - 9781119183747~~
+
 - Create Your Own EMC Troubleshooting Kit (Volume 1): Essential Tools for EMC Troubleshooting - Kenneth Wyatt - 9798693411968
 
 - Workbench Troubleshooting EMC Emissions (Volume 2): Simple Techniques for Radiated and Conducted Emissions Troubleshooting and Pre-Compliance Testing - Kenneth Wyatt - 9798694049771
@@ -45,8 +47,6 @@
 - Digital Design for Interference Specifications- A Practical Handbook for EMI Suppression - David L. Terrell & R. Kenneth Keenan - 075067282X
 
 - Electromagnetic Compatibility Engineering - Henry Ott - 9780470189306
-
-- ~~Grounding & Shielding Techniques - Ralph Morrison - 9781119183747~~
 
 - EMI Troubleshooting Cookbook for Product Designers – Patrick G. André and Kenneth Wyatt - 9781613530191
 
