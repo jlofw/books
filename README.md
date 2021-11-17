@@ -54,6 +54,20 @@
 
 - ~~Skunk Works: a Personal Memoir of My Years at Lockheed - Rich Ben R. - 9780316743006~~
 
+- Prelude to Foundation - Isaac Asimov - 9780008117481
+
+- Foundation - Isaac Asimov - 9780008117498
+
+- Foundation and Empire - Isaac Asimov - 9780553293371
+
+- Second Foundation - Isaac Asimov - 9780008117511
+
+- Foundation's Edge - Isaac Asimov - 9780008117528
+
+- Foundation and Earth - Isaac Asimov - 9780008117535
+
+- ~~Forward the Foundation - Isaac Asimov - 9780553565072~~
+
 - The Making of the Atomic Bomb - Richard Rhodes - 9781451677614
 
 - The Idea Factory - Jon Gertner - 9780143122791
