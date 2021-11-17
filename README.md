@@ -20,7 +20,7 @@
 
 - Right the First Time - A Practical Handbook on High Speed PCB and System Design - Volumes I & II - Lee W. Ritchey - 9780974193601
 
-- Signal and Power Integrity Simplified - Eric Bogatin - 9780134513416
+- ~~Signal and Power Integrity Simplified - Eric Bogatin - 9780134513416~~
 
 - High Speed Digital System Design - A handbook of InterconnectTheory and Practice - Hall, Hall and McCall - 0360902
 
