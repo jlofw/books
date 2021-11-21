@@ -12,6 +12,8 @@
 
 - Operation and Modeling of the MOS Transistor, Third Edtion International Edition - Yannis Tsividis - 9780199829835
 
+- Optimal Design of Switching Power Supply - Zhanyou Sha, Xiaojun Wang, Yanpeng Wang, Hongtao Ma - 9781118790908
+
 ## signal integrity
 
 - ~~Fast Circuit Boards - Energy Management – Ralph Morrison – 9781119413998~~
