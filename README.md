@@ -6,7 +6,9 @@
 
 - The Art of Electronics: The x Chapters - Paul Horowitz & Winfield Hill - 9781108499941
 
-- Optimal Design of Switching Power Supply - Zhanyou Sha, Xiaojun Wang, Yanpeng Wang, Hongtao Ma - 9781118790908
+- Power Electronics -  Ned Mohan, William P. Robbins & Tore M. Undeland - 9780471226932
+
+- **~~**Optimal Design of Switching Power Supply - Zhanyou Sha, Xiaojun Wang, Yanpeng Wang, Hongtao Ma - 9781118790908~~
 
 - Design of Analog CMOS Integrated Circuits - Behzad Razavi - 9780072524932
 
