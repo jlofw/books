@@ -58,7 +58,7 @@
 
 - ~~Skunk Works: a Personal Memoir of My Years at Lockheed - Rich Ben R. - 9780316743006~~
 
-- Prelude to Foundation - Isaac Asimov - 9780008117481
+- ~~Prelude to Foundation - Isaac Asimov - 9780008117481~~
 
 - Foundation - Isaac Asimov - 9780008117498
 
