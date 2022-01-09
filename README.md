@@ -81,3 +81,19 @@
 - The Heart of Enterprise - Stafford Beer - 9780471948377
 
 - The Peter Principle - Raymond Hull - 9781788166058
+
+- Brave New World
+
+- Hyperion
+
+- Gridlinked
+
+- Animal Farm
+
+- No Country for Old Men
+
+- Fahrenheit 451
+
+- The Man in the High Castle
+
+- Quicksilver
