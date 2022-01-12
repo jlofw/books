@@ -4,7 +4,7 @@
 
 - ~~The Art of Electronics - Paul Horowitz & Winfield Hill - 9780521809269~~
 
-- The Art of Electronics: The x Chapters - Paul Horowitz & Winfield Hill - 9781108499941
+- ~~The Art of Electronics: The x Chapters - Paul Horowitz & Winfield Hill - 9781108499941~~
 
 - ~~Power Electronics -  Ned Mohan, William P. Robbins & Tore M. Undeland - 9780471226932~~
 
