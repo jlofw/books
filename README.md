@@ -10,13 +10,13 @@
 
 - Fundamentals of Power Electronics -  Robert W. Erickson - 9783030438791
 
-- ~~Optimal Design of Switching Power Supply - Zhanyou Sha, Xiaojun Wang, Yanpeng Wang, Hongtao Ma - 9781118790908~~
-
 - Design of Analog CMOS Integrated Circuits - Behzad Razavi - 9780072524932
 
 - ISE Engineering Circuit Analysis - William Hayt - 9781260084887
 
 - Operation and Modeling of the MOS Transistor, Third Edtion International Edition - Yannis Tsividis - 9780199829835
+
+- ~~Optimal Design of Switching Power Supply - Zhanyou Sha, Xiaojun Wang, Yanpeng Wang, Hongtao Ma - 9781118790908~~
 
 ## signal integrity
 
