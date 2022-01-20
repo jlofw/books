@@ -2,6 +2,9 @@
 
 ## EE
 
+- Analog Circuit Design: A Tutorial Guide to Applications and Solutions - Bob Dobkin & Jim Williams - 9780123851857
+- Analog Circuit Design Volume 2: Immersion in the Black Art of Analog Design - Bob Dobkin & Jim Williams - 9780123978882
+- Analog Circuit Design Volume Three: Design Note Collection: 3 - Bob Dobkin & Jim Williams - 9780128000014
 - ~~The Art of Electronics - Paul Horowitz & Winfield Hill - 9780521809269~~
 - ~~The Art of Electronics: The x Chapters - Paul Horowitz & Winfield Hill - 9781108499941~~
 - ~~Power Electronics -  Ned Mohan, William P. Robbins & Tore M. Undeland - 9780471226932~~
