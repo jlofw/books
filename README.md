@@ -18,9 +18,9 @@
 - ~~Fast Circuit Boards - Energy Management – Ralph Morrison – 9781119413998~~
 - Right the First Time - A Practical Handbook on High Speed PCB and System Design - Volumes I & II - Lee W. Ritchey - 9780974193601
 - ~~Signal and Power Integrity Simplified - Eric Bogatin - 9780134513416~~
-- High Speed Digital System Design - A handbook of InterconnectTheory and Practice - Hall, Hall and McCall - 0360902
 - High Speed Digital Design - A Handbook of Black Magic - Howard W. Johnson & Martin Graham - 0133957241
 - High Speed Signal Propagation - Advanced Black Magic - Howard W. Johnson & Martin Graham - 013084408X
+- High Speed Digital System Design - A handbook of InterconnectTheory and Practice - Hall, Hall and McCall - 0360902
 
 ## EMI / EMC
 
