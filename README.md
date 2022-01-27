@@ -16,7 +16,6 @@
 ## signal integrity
 
 - ~~Fast Circuit Boards - Energy Management – Ralph Morrison – 9781119413998~~
-- Bogatin’s Practical Guide to Transmission Line Design and Characterization for Signal Integrity Applications - Eric Bogatin - 9781630818517
 - Right the First Time - A Practical Handbook on High Speed PCB and System Design - Volumes I & II - Lee W. Ritchey - 9780974193601
 - ~~Signal and Power Integrity Simplified - Eric Bogatin - 9780134513416~~
 - High Speed Digital System Design - A handbook of InterconnectTheory and Practice - Hall, Hall and McCall - 0360902
