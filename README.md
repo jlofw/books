@@ -20,7 +20,7 @@
 - ~~Signal and Power Integrity Simplified - Eric Bogatin - 9780134513416~~
 - High Speed Digital Design - A Handbook of Black Magic - Howard W. Johnson & Martin Graham - 0133957241
 - High Speed Signal Propagation - Advanced Black Magic - Howard W. Johnson & Martin Graham - 013084408X
-- High Speed Digital System Design - A handbook of InterconnectTheory and Practice - Hall, Hall and McCall - 0360902
+- High Speed Digital System Design - A handbook of Interconnect Theory and Practice - Hall, Hall and McCall - 0360902
 
 ## EMI / EMC
 
