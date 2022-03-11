@@ -26,7 +26,7 @@
 
 - ~~Grounding & Shielding Techniques - Ralph Morrison - 9781119183747~~
 - Electromagnetic Compatibility Engineering - Henry Ott - 9780470189306
-- - Create Your Own EMC Troubleshooting Kit (Volume 1): Essential Tools for EMC Troubleshooting - Kenneth Wyatt - 9798693411968
+- Create Your Own EMC Troubleshooting Kit (Volume 1): Essential Tools for EMC Troubleshooting - Kenneth Wyatt - 9798693411968
 - Workbench Troubleshooting EMC Emissions (Volume 2): Simple Techniques for Radiated and Conducted Emissions Troubleshooting and Pre-Compliance Testing - Kenneth Wyatt - 9798694049771
 - Workbench Troubleshooting EMC Immunity (Volume 3): Simple Techniques for ESD, EFT and Radiated Immunity Testing, Troubleshooting and Pre-Compliance Testing - Kenneth Wyatt - 9798694103145
 - Bogatin's Practical Guide to Prototype Breadboard and PCB Design - Eric Bogatin - 9781630818487
