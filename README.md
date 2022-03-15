@@ -9,6 +9,7 @@
 - ~~The Art of Electronics: The x Chapters - Paul Horowitz & Winfield Hill - 9781108499941~~
 - ~~Power Electronics -  Ned Mohan, William P. Robbins & Tore M. Undeland - 9780471226932~~
 - ~~Fundamentals of Power Electronics -  Robert W. Erickson - 9783030438791~~
+- Coaxial Electrical Circuits for Interference-Free Measurements - Shakil Awan & Bryan Kibble & Jürgen Schurr - 9781849190695
 - Design of Analog CMOS Integrated Circuits - Behzad Razavi - 9780072524932
 - ISE Engineering Circuit Analysis - William Hayt - 9781260084887
 - Operation and Modeling of the MOS Transistor, Third Edtion International Edition - Yannis Tsividis - 9780199829835
