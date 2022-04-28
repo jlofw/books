@@ -2,6 +2,8 @@
 
 ## EE
 
+- ~~The Art of Electronics - Paul Horowitz & Winfield Hill - 9780521809269~~
+- ~~The Art of Electronics: The x Chapters - Paul Horowitz & Winfield Hill - 9781108499941~~
 - Analog Circuit Design: A Tutorial Guide to Applications and Solutions - Bob Dobkin & Jim Williams - 9780123851857
 - Analog Circuit Design Volume Two: Immersion in the Black Art of Analog Design - Bob Dobkin & Jim Williams - 9780123978882
 - Analog Circuit Design Volume Three: Design Note Collection: 3 - Bob Dobkin & Jim Williams - 9780128000014
@@ -9,8 +11,6 @@
 - Troubleshooting Analog Circuits - Robert Pease - 9780750694995
 - Analog Circuit Design: Art, Science and Personalities - Jim Williams - 9780750696401
 - The Art and Science of Analog Circuit Design - Jim Williams - 9780080499437
-- ~~The Art of Electronics - Paul Horowitz & Winfield Hill - 9780521809269~~
-- ~~The Art of Electronics: The x Chapters - Paul Horowitz & Winfield Hill - 9781108499941~~
 - ~~Power Electronics -  Ned Mohan, William P. Robbins & Tore M. Undeland - 9780471226932~~
 - ~~Fundamentals of Power Electronics -  Robert W. Erickson - 9783030438791~~
 - Coaxial Electrical Circuits for Interference-Free Measurements - Shakil Awan & Bryan Kibble & Jürgen Schurr - 9781849190695
@@ -22,8 +22,8 @@
 
 - High Speed Digital Design - A Handbook of Black Magic - Howard W. Johnson & Martin Graham - 0133957241
 - High Speed Signal Propagation - Advanced Black Magic - Howard W. Johnson & Martin Graham - 013084408X
-- ~~Fast Circuit Boards - Energy Management – Ralph Morrison – 9781119413998~~
 - Right the First Time - A Practical Handbook on High Speed PCB and System Design - Volumes I & II - Lee W. Ritchey - 9780974193601
+- ~~Fast Circuit Boards - Energy Management – Ralph Morrison – 9781119413998~~
 - ~~Signal and Power Integrity Simplified - Eric Bogatin - 9780134513416~~
 - High Speed Digital System Design - A handbook of Interconnect Theory and Practice - Hall, Hall and McCall - 0360902
 
