@@ -17,6 +17,7 @@
 - ISE Engineering Circuit Analysis - William Hayt - 9781260084887
 - Operation and Modeling of the MOS Transistor, Third Edtion International Edition - Yannis Tsividis - 9780199829835
 - Design of Analog CMOS Integrated Circuits - Behzad Razavi - 9780072524932
+- The Circuit Designer's Companion - Peter Wilson - 9780081017647
 
 ## signal integrity
 
