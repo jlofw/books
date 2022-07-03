@@ -1,4 +1,4 @@
-# books to get
+# Books
 
 ## EE
 
@@ -19,7 +19,7 @@
 - Design of Analog CMOS Integrated Circuits - Behzad Razavi - 9780072524932
 - The Circuit Designer's Companion - Peter Wilson - 9780081017647
 
-## signal integrity
+## Signal integrity
 
 - High Speed Digital Design - A Handbook of Black Magic - Howard W. Johnson & Martin Graham - 0133957241
 - High Speed Signal Propagation - Advanced Black Magic - Howard W. Johnson & Martin Graham - 013084408X
@@ -44,7 +44,7 @@
 
 - Radio-Frequency Electronics Circuits and Applications - Jon Hagen - 9780511626951
 
-## other
+## Other
 
 - ~~Skunk Works: a Personal Memoir of My Years at Lockheed - Rich Ben R. - 9780316743006~~
 - ~~Prelude to Foundation - Isaac Asimov - 9780008117481~~
